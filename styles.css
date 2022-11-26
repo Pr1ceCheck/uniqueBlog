@@ -1,0 +1,35 @@
+
+
+html,body{
+    margin: 0%;
+    box-sizing: border-box;
+    overflow-x: hidden;
+}
+
+
+/* -----GLOBAL CLASSES----- */
+
+a{
+    text-decoration: none;
+}
+
+/* ---X--GLOBAL CLASSES--X--- */
+
+
+/* -----------------NAVBAR------------- */
+.nav{
+    background: white;
+    padding: 0 2rem;
+    height: 0rem;
+    min-height: 10vh;
+    overflow: hidden;
+}
+
+.nav .nav-brand a{
+    font-size: 1.6rem;
+    padding: 1rem 0;
+    text-decoration: line-through;
+}
+/* --------x-------NAVBAR-------x------ */
+
+
